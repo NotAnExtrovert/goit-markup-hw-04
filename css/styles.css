@@ -437,7 +437,6 @@ address{
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
-    cursor: pointer;
 }
 
 .footer-email:hover {
