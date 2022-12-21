@@ -626,5 +626,5 @@ address{
 }
 
 .portfolio-title{
-    display: none;
+    visibility: hidden;
 }
