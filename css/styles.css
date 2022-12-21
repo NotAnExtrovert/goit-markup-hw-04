@@ -191,7 +191,7 @@ header{
     padding-top: 200px;
     padding-bottom: 200px;
     width: 1600px;
-    background-image: url('./images/background.jpeg') ; 
+    background-image: url("/images/background_img\(2\).jpeg") ; 
     background-repeat: no-repeat;
     background-position: 100% 100%;
     background-size: cover;
