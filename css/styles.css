@@ -581,11 +581,9 @@ address{
 .profile-subtitle {
     font-weight: 700;
     font-size: 18px;
-    line-height: 2;
+    line-height: 2.0;
     letter-spacing: 0.06em;
     margin:0 24px 4px;
-    max-width: 322px;
-
 }
 
 .profile-description {
@@ -599,10 +597,12 @@ address{
     display: flex;
     gap: 30px;
     flex-wrap: wrap;
+
 }
  
 .axions-card {
-    max-width: 370px;
+    display: block;
+    width: 370px;
     background: #FFFFFF;
     margin: 0;
     border: 1px solid #EEEEEE;
@@ -626,4 +626,5 @@ address{
 
 .portfolio-title{
     visibility: hidden;
+    position: absolute;
 }
